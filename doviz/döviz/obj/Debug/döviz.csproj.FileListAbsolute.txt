@@ -1,0 +1,10 @@
+C:\Users\yazilimcitayfa\Desktop\doviz\döviz\bin\Debug\döviz.exe
+C:\Users\yazilimcitayfa\Desktop\doviz\döviz\bin\Debug\döviz.pdb
+C:\Users\yazilimcitayfa\Desktop\doviz\döviz\obj\Debug\döviz.csprojAssemblyReference.cache
+C:\Users\yazilimcitayfa\Desktop\doviz\döviz\obj\Debug\döviz.Form1.resources
+C:\Users\yazilimcitayfa\Desktop\doviz\döviz\obj\Debug\döviz.Properties.Resources.resources
+C:\Users\yazilimcitayfa\Desktop\doviz\döviz\obj\Debug\döviz.csproj.GenerateResource.cache
+C:\Users\yazilimcitayfa\Desktop\doviz\döviz\obj\Debug\döviz.csproj.CoreCompileInputs.cache
+C:\Users\yazilimcitayfa\Desktop\doviz\döviz\obj\Debug\döviz.exe
+C:\Users\yazilimcitayfa\Desktop\doviz\döviz\obj\Debug\döviz.pdb
+C:\Users\yazilimcitayfa\Desktop\doviz\döviz\obj\Debug\döviz.hesap.resources
